@@ -12,8 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-    private int studentID12;
-    
+    private int studentID;
 
     /**
      * Get the value of name
@@ -32,7 +31,6 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    
 
 }
  
