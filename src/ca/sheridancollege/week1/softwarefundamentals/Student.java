@@ -13,6 +13,10 @@ public class Student {
     
     private String name;
     private int studentID12;
+    private int age;
+    private String email;
+    
+    
     
 
     /**
