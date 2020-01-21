@@ -19,6 +19,7 @@ public class Student {
     private String program;
     private int GPA;
     private String Grade;
+    private String status;
     
     
     
