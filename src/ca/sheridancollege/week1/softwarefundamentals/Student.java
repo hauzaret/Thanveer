@@ -7,12 +7,22 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author sidhu376
+ * @author sidhu376 -- 21-Jan-2020 -- comment
  */
 public class Student {
     
     private String name;
     private int studentID;
+    private int studentID12;
+    private int age;
+    private String email;
+    private String program;
+    private int GPA;
+    private String Grade;
+    
+    
+    
+
 
     /**
      * Get the value of name
