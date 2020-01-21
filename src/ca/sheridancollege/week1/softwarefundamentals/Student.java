@@ -15,6 +15,9 @@ public class Student {
     private int studentID12;
     private int age;
     private String email;
+    privata String program;
+    private int GPA;
+    private String Grade;
     
     
     
